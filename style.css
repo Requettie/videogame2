@@ -1,0 +1,36 @@
+body{
+    font-family:Arial, Helvetica, sans-serif
+}
+img{
+    width:10rem;
+}
+
+main{
+    display:flex;
+
+}
+.container{
+    width:80%;
+    margin:1rem auto;
+}
+.character-container{
+    border:1px solid black;
+    width:20rem;
+    padding:1rem;
+    border-radius:1rem;
+}
+
+.points{
+    font-size:1.5rem;
+}
+
+button{
+    background-color: (209,25,25);
+    color:red;
+    border:none;
+    width:7rem;
+    font-size:1.2rem;
+    padding:1rem;
+    border-radius:1rem;
+    cursor:pointer;
+}
